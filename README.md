@@ -30,4 +30,4 @@ The program also loads the file into a dataframe for further processing if requi
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/7aa3d19a-8ee9-401a-990c-d5b50c11375a)
 
 
-Note: This webscrapers will only work for relatively small scale websites. Some websites provide api to access their services. All websites do not allow the use of webscrapers.
+Note: This webscraper will only work for relatively small scale websites. Some websites provide api to access their services. Some websites do not allow the use of webscrapers.
