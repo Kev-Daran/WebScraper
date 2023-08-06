@@ -28,3 +28,6 @@ Open the csv file with any spreadsheet application.
 
 The program also loads the file into a dataframe for further processing if required.
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/7aa3d19a-8ee9-401a-990c-d5b50c11375a)
+
+
+Note: This webscrapers will only work for relatively small scale websites. Some websites provide api to access their services. All websites do not allow the use of webscrapers.
