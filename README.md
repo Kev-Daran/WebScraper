@@ -1,1 +1,1 @@
-# WebScraper
+# A Simple WebScraper
