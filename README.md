@@ -18,6 +18,7 @@ Recheck the table's position.
 
 ## Accessing the spreadsheet
 The spreadsheet will be saved as a '.csv' file in your environment as 'scraped_data.csv'.
+
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/c814780c-b28e-444f-a6a7-e2538703071a)
 
 In Google Colab, you will have to download the file from your environment. 
