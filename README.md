@@ -21,8 +21,10 @@ The spreadsheet will be saved as a '.csv' file in your environment as 'scraped_d
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/c814780c-b28e-444f-a6a7-e2538703071a)
 
 In Google Colab, you will have to download the file from your environment. 
+
 Open the csv file with any spreadsheet application.
+
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/537d99aa-8c35-494a-8806-fdb08a1ef680)
 
-The program also loads the file into a dataframe for further oricessing if required.
+The program also loads the file into a dataframe for further processing if required.
 ![image](https://github.com/Kev-Daran/WebScraper/assets/81677957/7aa3d19a-8ee9-401a-990c-d5b50c11375a)
